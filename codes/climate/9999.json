@@ -1,7 +1,7 @@
 {
   "manufacturer": "Hisense",
   "supportedModels": [
-    "Unknown"
+    "HAC18JDN"
   ],
   "supportedController": "Broadlink",
   "commandsEncoding": "Base64",
